@@ -1,0 +1,11 @@
+body {
+    background-color: darkorange;
+    font-size: 2rem;
+}
+
+@keyframes animation {
+    0% {
+        color: red;
+        font-size: 1.5rem;
+    }
+}
