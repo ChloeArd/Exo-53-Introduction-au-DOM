@@ -15,8 +15,6 @@ let span = document.querySelector(".spanTest");
 span.style.backgroundColor = "white";
 span.dir = "rtl";
 
-
-
 let a = document.querySelector('a');
 let lien = document.createTextNode("Mon texte");
 a.appendChild(lien);
