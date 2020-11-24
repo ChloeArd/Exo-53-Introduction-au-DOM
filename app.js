@@ -15,11 +15,15 @@ let span = document.querySelector(".spanTest");
 span.style.backgroundColor = "white";
 span.dir = "rtl";
 
-let a = document.createElement('a');
+
+
+let a = document.querySelector('a');
 let lien = document.createTextNode("Mon texte");
 a.appendChild(lien);
 a.href = "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal";
 document.body.appendChild(a);
+
+
 
 
 
