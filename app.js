@@ -123,12 +123,3 @@ a.href = "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal";
 document.body.appendChild(a);
 console.log(a);
 console.log(lien5);
-
-
-
-
-
-
-
-
-
